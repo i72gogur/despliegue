@@ -51,8 +51,8 @@ defaults:
     values:
       layout: "author"
   - scope:
-      path: "_posts"
-      type: "post"
+      path: "_layouts"
+      type: "posts"
     values:
       layout: "post"
 
