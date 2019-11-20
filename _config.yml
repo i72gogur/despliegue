@@ -55,6 +55,16 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: "_layouts"
+      type: "author"
+    values:
+      layout: "default"
+  - scope:
+      path: "_layouts"
+      type: "posts"
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
