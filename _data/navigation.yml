@@ -1,8 +1,8 @@
 - name: Home
-  link: /Jekyll-GithubPages
+  link: /despliegue
 - name: Posts
-  link: /Jekyll-GithubPages/blog.html
+  link: /despliegue/blog.html
 - name: Colaboradores
-  link: /Jekyll-GithubPages/colaboradores.html
+  link: /despliegue/colaboradores.html
 - name: About
-  link: /Jekyll-GithubPages/about.html
+  link: /despliegue/about.html
