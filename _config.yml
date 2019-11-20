@@ -47,7 +47,7 @@ defaults:
       layout: "default"
   - scope:
       path: "_authors"
-      type: "authors"
+      type: "author"
     values:
       layout: "author"
   - scope:
