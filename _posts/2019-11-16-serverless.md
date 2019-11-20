@@ -1,5 +1,4 @@
 ---
-layout: post
 author: rafa
 ---
 Serverless es un tipo de arquitectura donde los servidores (físicos o en la nube) deja de existir para el desarrollador y el código se ejecuta en "ambientes de ejecución" administrados por un proveedor, en nuestro caso Jekyll.
