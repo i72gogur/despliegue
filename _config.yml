@@ -43,18 +43,18 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "authors"
+    values:
+      layout: "default"
+  - scope:
+      path: "_layouts"
+      type: "author"
     values:
       layout: "author"
   - scope:
-      path: ""
-      type: "posts"
+      path: "_posts"
+      type: "post"
     values:
       layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
